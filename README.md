@@ -22,3 +22,14 @@ The pipeline retrieves hourly weather forecasts and produces a clean CSV:
 | 2026-08-01T00:00 | 26.3 | 0.0 |
 | 2026-08-01T01:00 | 25.8 | 0.0 |
 | 2026-08-01T02:00 | 25.5 | 0.0 |
+
+## Skills Demonstrated
+- REST API integration
+- HTTP request handling
+- JSON parsing
+- Error handling
+- Data validation
+- Data transformation
+- Pandas DataFrame creation
+- CSV generation
+- Python scripting
