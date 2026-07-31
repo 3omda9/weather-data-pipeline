@@ -6,7 +6,7 @@ A robust Python data extraction script that consumes the Open-Meteo REST API, ha
 This project demonstrates the ability to reliably extract data from external APIs and convert it into a usable tabular format. It includes:
 * **Error Handling:** Validates HTTP status codes and API responses to prevent silent failures.
 * **Data Transformation:** Flattens complex JSON structures into clean, analytical tables.
-* **Production Ready:** Uses standard libraries (`requests`, `pandas`) for reliable execution.
+* **Reliable Execution:** Uses requests and pandas with explicit error handling and data validation.
 
 ## How to Run
 1. Install requirements: `pip install -r requirements.txt`
